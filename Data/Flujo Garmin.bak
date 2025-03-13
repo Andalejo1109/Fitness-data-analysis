@@ -1,0 +1,904 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="102" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>65001</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Actividades AARL 1 año.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Activity Type" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Date" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Favorite" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Title" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Distance" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Calories" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Time" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Avg HR" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Max HR" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Aerobic TE" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Avg Run Cadence" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Max Run Cadence" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Avg Speed" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Max Speed" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Total Ascent" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Total Descent" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Avg Stride Length" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Avg Vertical Ratio" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Avg Vertical Oscillation" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Avg Ground Contact Time" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Avg Bike Cadence" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Max Bike Cadence" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Normalized Power® (NP®)" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Training Stress Score®" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Max Avg Power (20 min)" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Avg Power" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Max Power" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Grit" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Flow" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Total Strokes" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Avg. Swolf" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Avg Stroke Rate" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Total Reps" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Dive Time" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Min Temp" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Surface Interval" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Decompression" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Best Lap Time" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Number of Laps" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Max Temp" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Avg Resp" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Min Resp" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Max Resp" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Moving Time" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Elapsed Time" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Min Elevation" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+            <Field name="Max Elevation" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades AARL 1 año.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="114" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>65001</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Actividades JJ 1 año.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Tipo de actividad" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Fecha" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Favorito" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Título" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Distancia" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Calorías" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Tiempo" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Frecuencia cardiaca media" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Frecuencia cardiaca máxima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Cadencia de carrera media" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Cadencia de carrera máxima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Velocidad media" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Velocidad máxima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Ascenso total" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Descenso total" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Longitud media de zancada" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Relación vertical media" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Oscilación vertical media" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Tiempo medio de contacto con el suelo" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Cadencia media de pedaleo" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Cadencia de pedaleo máxima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Training Stress Score®" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Potencia media" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Potencia máxima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Dificultad" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Fluidez" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Brazadas totales" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Swolf medio" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Velocidad media de palada" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Repeticiones totales" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Tiempo de inmersión" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Temperatura mínima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Intervalo en superficie" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Descompresión" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Mejor tiempo de vuelta" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Número de vueltas" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Temperatura máxima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Tiempo en movimiento" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Tiempo transcurrido" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Altura mínima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+            <Field name="Altura máxima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Actividades JJ 1 año.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="126" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>65001</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Activities CCO.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Tipo de actividad" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Fecha" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Favorito" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Título" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Distancia" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Calorías" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Tiempo" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Frecuencia cardiaca media" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Frecuencia cardiaca máxima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Cadencia de carrera media" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Cadencia de carrera máxima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Velocidad media" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Velocidad máxima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Ascenso total" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Descenso total" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Longitud media de zancada" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Relación vertical media" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Oscilación vertical media" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Tiempo medio de contacto con el suelo" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Cadencia media de pedaleo" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Cadencia de pedaleo máxima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Training Stress Score®" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Potencia media" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Potencia máxima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Dificultad" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Fluidez" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Brazadas totales" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Swolf medio" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Velocidad media de palada" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Repeticiones totales" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Tiempo de inmersión" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Temperatura mínima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Intervalo en superficie" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Descompresión" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Mejor tiempo de vuelta" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Número de vueltas" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Temperatura máxima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Ritmo medio de respiración" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Ritmo mínimo de respiración" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Ritmo máximo de respiración" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Cambio en el estrés" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Inicio del periodo de estrés" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Fin del periodo de estrés" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Estrés medio" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Tiempo en movimiento" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Tiempo transcurrido" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Altura mínima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+            <Field name="Altura máxima" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="126" y="18" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>65001</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Activities KMP 1 año.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Activity Type" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Date" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Favorite" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Title" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Distance" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Calories" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Time" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Avg HR" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Max HR" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Aerobic TE" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Avg Run Cadence" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Max Run Cadence" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Avg Speed" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Max Speed" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Total Ascent" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Total Descent" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Avg Stride Length" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Avg Vertical Ratio" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Avg Vertical Oscillation" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Avg Ground Contact Time" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Avg Bike Cadence" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Max Bike Cadence" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Normalized Power® (NP®)" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Training Stress Score®" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Max Avg Power (20 min)" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Avg Power" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Max Power" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Grit" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Flow" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Total Strokes" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Avg. Swolf" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Avg Stroke Rate" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Total Reps" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Dive Time" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Min Temp" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Surface Interval" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Decompression" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Best Lap Time" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Number of Laps" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Max Temp" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Avg Resp" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Min Resp" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Max Resp" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Moving Time" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Elapsed Time" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Min Elevation" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+            <Field name="Max Elevation" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities KMP 1 año.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="246" y="18" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="246" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="222" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="222" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Cambio en el estrés" selected="False" />
+            <SelectField field="Inicio del periodo de estrés" selected="False" />
+            <SelectField field="Fin del periodo de estrés" selected="False" />
+            <SelectField field="Estrés medio" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="354" y="42" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="318" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="486" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Activity Type" action="GroupBy" rename="Activity Type" />
+            <SummarizeField field="Activity Type" action="Count" rename="Count" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="618" y="42" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="3082">
+            <Field field="Count" order="Descending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Count - Descendente</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="426" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>NotContains</Operator>
+            <Field>Tipo de actividad</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2022-10-11 17:55:53</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>Remo</Operand>
+              <StartDate>2022-10-11 17:55:53</StartDate>
+              <EndDate>2022-10-11 17:55:53</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!Contains([Tipo de actividad],"Remo")</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="522" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>NotContains</Operator>
+            <Field>Tipo de actividad</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2022-10-11 17:56:07</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>Trabajo</Operand>
+              <StartDate>2022-10-11 17:56:07</StartDate>
+              <EndDate>2022-10-11 17:56:07</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!Contains([Tipo de actividad],"Trabajo")</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="618" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>NotContains</Operator>
+            <Field>Tipo de actividad</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2022-10-11 17:56:18</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>Escaladora</Operand>
+              <StartDate>2022-10-11 17:56:18</StartDate>
+              <EndDate>2022-10-11 17:56:18</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!Contains([Tipo de actividad],"Escaladora")</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="906" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <AutoResetMode>Custom</AutoResetMode>
+          <MultiMetaInfo>
+            <MetaInfo name="#1">
+              <RecordInfo>
+                <Field name="Activity Type" size="254" source="File: (Multiple Sources)" type="V_WString" column="1" />
+                <Field name="Date" size="254" source="File: (Multiple Sources)" type="V_WString" column="2" />
+                <Field name="Favorite" size="254" source="File: (Multiple Sources)" type="V_WString" column="3" />
+                <Field name="Title" size="254" source="File: (Multiple Sources)" type="V_WString" column="4" />
+                <Field name="Distance" size="254" source="File: (Multiple Sources)" type="V_WString" column="5" />
+                <Field name="Calories" size="254" source="File: (Multiple Sources)" type="V_WString" column="6" />
+                <Field name="Time" size="254" source="File: (Multiple Sources)" type="V_WString" column="7" />
+                <Field name="Avg HR" size="254" source="File: (Multiple Sources)" type="V_WString" column="8" />
+                <Field name="Max HR" size="254" source="File: (Multiple Sources)" type="V_WString" column="9" />
+                <Field name="Aerobic TE" size="254" source="File: (Multiple Sources)" type="V_WString" column="10" />
+                <Field name="Avg Run Cadence" size="254" source="File: (Multiple Sources)" type="V_WString" column="11" />
+                <Field name="Max Run Cadence" size="254" source="File: (Multiple Sources)" type="V_WString" column="12" />
+                <Field name="Avg Speed" size="254" source="File: (Multiple Sources)" type="V_WString" column="13" />
+                <Field name="Max Speed" size="254" source="File: (Multiple Sources)" type="V_WString" column="14" />
+                <Field name="Total Ascent" size="254" source="File: (Multiple Sources)" type="V_WString" column="15" />
+                <Field name="Total Descent" size="254" source="File: (Multiple Sources)" type="V_WString" column="16" />
+                <Field name="Avg Stride Length" size="254" source="File: (Multiple Sources)" type="V_WString" column="17" />
+                <Field name="Avg Vertical Ratio" size="254" source="File: (Multiple Sources)" type="V_WString" column="18" />
+                <Field name="Avg Vertical Oscillation" size="254" source="File: (Multiple Sources)" type="V_WString" column="19" />
+                <Field name="Avg Ground Contact Time" size="254" source="File: (Multiple Sources)" type="V_WString" column="20" />
+                <Field name="Avg Bike Cadence" size="254" source="File: (Multiple Sources)" type="V_WString" column="21" />
+                <Field name="Max Bike Cadence" size="254" source="File: (Multiple Sources)" type="V_WString" column="22" />
+                <Field name="Normalized Power® (NP®)" size="254" source="File: (Multiple Sources)" type="V_WString" column="23" />
+                <Field name="Training Stress Score®" size="254" source="File: (Multiple Sources)" type="V_WString" column="24" />
+                <Field name="Max Avg Power (20 min)" size="254" source="File: (Multiple Sources)" type="V_WString" column="25" />
+                <Field name="Avg Power" size="254" source="File: (Multiple Sources)" type="V_WString" column="26" />
+                <Field name="Max Power" size="254" source="File: (Multiple Sources)" type="V_WString" column="27" />
+                <Field name="Grit" size="254" source="File: (Multiple Sources)" type="V_WString" column="28" />
+                <Field name="Flow" size="254" source="File: (Multiple Sources)" type="V_WString" column="29" />
+                <Field name="Total Strokes" size="254" source="File: (Multiple Sources)" type="V_WString" column="30" />
+                <Field name="Avg. Swolf" size="254" source="File: (Multiple Sources)" type="V_WString" column="31" />
+                <Field name="Avg Stroke Rate" size="254" source="File: (Multiple Sources)" type="V_WString" column="32" />
+                <Field name="Total Reps" size="254" source="File: (Multiple Sources)" type="V_WString" column="33" />
+                <Field name="Dive Time" size="254" source="File: (Multiple Sources)" type="V_WString" column="34" />
+                <Field name="Min Temp" size="254" source="File: (Multiple Sources)" type="V_WString" column="35" />
+                <Field name="Surface Interval" size="254" source="File: (Multiple Sources)" type="V_WString" column="36" />
+                <Field name="Decompression" size="254" source="File: (Multiple Sources)" type="V_WString" column="37" />
+                <Field name="Best Lap Time" size="254" source="File: (Multiple Sources)" type="V_WString" column="38" />
+                <Field name="Number of Laps" size="254" source="File: (Multiple Sources)" type="V_WString" column="39" />
+                <Field name="Max Temp" size="254" source="File: (Multiple Sources)" type="V_WString" column="40" />
+                <Field name="Avg Resp" size="254" source="File: (Multiple Sources)" type="V_WString" column="41" />
+                <Field name="Min Resp" size="254" source="File: (Multiple Sources)" type="V_WString" column="42" />
+                <Field name="Max Resp" size="254" source="File: (Multiple Sources)" type="V_WString" column="43" />
+                <Field name="Moving Time" size="254" source="File: (Multiple Sources)" type="V_WString" column="44" />
+                <Field name="Elapsed Time" size="254" source="File: (Multiple Sources)" type="V_WString" column="45" />
+                <Field name="Min Elevation" size="254" source="File: (Multiple Sources)" type="V_WString" column="46" />
+                <Field name="Max Elevation" size="254" source="File: (Multiple Sources)" type="V_WString" column="47" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#2">
+              <RecordInfo>
+                <Field name="Tipo de actividad" size="254" source="File: (Multiple Sources)" type="V_WString" column="1" />
+                <Field name="Fecha" size="254" source="File: (Multiple Sources)" type="V_WString" column="2" />
+                <Field name="Favorito" size="254" source="File: (Multiple Sources)" type="V_WString" column="3" />
+                <Field name="Título" size="254" source="File: (Multiple Sources)" type="V_WString" column="4" />
+                <Field name="Distancia" size="254" source="File: (Multiple Sources)" type="V_WString" column="5" />
+                <Field name="Calorías" size="254" source="File: (Multiple Sources)" type="V_WString" column="6" />
+                <Field name="Tiempo" size="254" source="File: (Multiple Sources)" type="V_WString" column="7" />
+                <Field name="Frecuencia cardiaca media" size="254" source="File: (Multiple Sources)" type="V_WString" column="8" />
+                <Field name="Frecuencia cardiaca máxima" size="254" source="File: (Multiple Sources)" type="V_WString" column="9" />
+                <Field name="Cadencia de carrera media" size="254" source="File: (Multiple Sources)" type="V_WString" column="11" />
+                <Field name="Cadencia de carrera máxima" size="254" source="File: (Multiple Sources)" type="V_WString" column="12" />
+                <Field name="Velocidad media" size="254" source="File: (Multiple Sources)" type="V_WString" column="13" />
+                <Field name="Velocidad máxima" size="254" source="File: (Multiple Sources)" type="V_WString" column="14" />
+                <Field name="Ascenso total" size="254" source="File: (Multiple Sources)" type="V_WString" column="15" />
+                <Field name="Descenso total" size="254" source="File: (Multiple Sources)" type="V_WString" column="16" />
+                <Field name="Longitud media de zancada" size="254" source="File: (Multiple Sources)" type="V_WString" column="17" />
+                <Field name="Relación vertical media" size="254" source="File: (Multiple Sources)" type="V_WString" column="18" />
+                <Field name="Oscilación vertical media" size="254" source="File: (Multiple Sources)" type="V_WString" column="19" />
+                <Field name="Tiempo medio de contacto con el suelo" size="254" source="File: (Multiple Sources)" type="V_WString" column="20" />
+                <Field name="Cadencia media de pedaleo" size="254" source="File: (Multiple Sources)" type="V_WString" column="21" />
+                <Field name="Cadencia de pedaleo máxima" size="254" source="File: (Multiple Sources)" type="V_WString" column="22" />
+                <Field name="Training Stress Score®" size="254" source="File: (Multiple Sources)" type="V_WString" column="24" />
+                <Field name="Potencia media" size="254" source="File: (Multiple Sources)" type="V_WString" column="26" />
+                <Field name="Potencia máxima" size="254" source="File: (Multiple Sources)" type="V_WString" column="27" />
+                <Field name="Dificultad" size="254" source="File: (Multiple Sources)" type="V_WString" column="28" />
+                <Field name="Fluidez" size="254" source="File: (Multiple Sources)" type="V_WString" column="29" />
+                <Field name="Brazadas totales" size="254" source="File: (Multiple Sources)" type="V_WString" column="30" />
+                <Field name="Swolf medio" size="254" source="File: (Multiple Sources)" type="V_WString" column="31" />
+                <Field name="Velocidad media de palada" size="254" source="File: (Multiple Sources)" type="V_WString" column="32" />
+                <Field name="Repeticiones totales" size="254" source="File: (Multiple Sources)" type="V_WString" column="33" />
+                <Field name="Tiempo de inmersión" size="254" source="File: (Multiple Sources)" type="V_WString" column="34" />
+                <Field name="Temperatura mínima" size="254" source="File: (Multiple Sources)" type="V_WString" column="35" />
+                <Field name="Intervalo en superficie" size="254" source="File: (Multiple Sources)" type="V_WString" column="36" />
+                <Field name="Descompresión" size="254" source="File: (Multiple Sources)" type="V_WString" column="37" />
+                <Field name="Mejor tiempo de vuelta" size="254" source="File: (Multiple Sources)" type="V_WString" column="38" />
+                <Field name="Número de vueltas" size="254" source="File: (Multiple Sources)" type="V_WString" column="39" />
+                <Field name="Temperatura máxima" size="254" source="File: (Multiple Sources)" type="V_WString" column="40" />
+                <Field name="Ritmo medio de respiración" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" column="41" />
+                <Field name="Ritmo mínimo de respiración" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" column="42" />
+                <Field name="Ritmo máximo de respiración" size="254" source="File: D:\QCSCONS5\Desktop\Personal\Proyecto freelancer digital\portafolio\2. Proyecto Garmin\Activities CCO.csv" type="V_WString" column="43" />
+                <Field name="Tiempo en movimiento" size="254" source="File: (Multiple Sources)" type="V_WString" column="44" />
+                <Field name="Tiempo transcurrido" size="254" source="File: (Multiple Sources)" type="V_WString" column="45" />
+                <Field name="Altura mínima" size="254" source="File: (Multiple Sources)" type="V_WString" column="46" />
+                <Field name="Altura máxima" size="254" source="File: (Multiple Sources)" type="V_WString" column="47" />
+              </RecordInfo>
+            </MetaInfo>
+          </MultiMetaInfo>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ManualDelayed</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="630" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="714" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Tipo de actividad" selected="True" />
+            <SelectField field="Fecha" selected="True" />
+            <SelectField field="Favorito" selected="True" />
+            <SelectField field="Título" selected="True" />
+            <SelectField field="Distancia" selected="True" />
+            <SelectField field="Calorías" selected="True" />
+            <SelectField field="Tiempo" selected="True" />
+            <SelectField field="Frecuencia cardiaca media" selected="True" />
+            <SelectField field="Frecuencia cardiaca máxima" selected="True" />
+            <SelectField field="Cadencia de carrera media" selected="True" />
+            <SelectField field="Cadencia de carrera máxima" selected="True" />
+            <SelectField field="Velocidad media" selected="True" />
+            <SelectField field="Velocidad máxima" selected="True" />
+            <SelectField field="Ascenso total" selected="True" />
+            <SelectField field="Descenso total" selected="True" />
+            <SelectField field="Longitud media de zancada" selected="True" />
+            <SelectField field="Relación vertical media" selected="True" />
+            <SelectField field="Oscilación vertical media" selected="True" />
+            <SelectField field="Tiempo medio de contacto con el suelo" selected="True" />
+            <SelectField field="Cadencia media de pedaleo" selected="True" />
+            <SelectField field="Cadencia de pedaleo máxima" selected="True" />
+            <SelectField field="Training Stress Score®" selected="True" />
+            <SelectField field="Potencia media" selected="True" />
+            <SelectField field="Potencia máxima" selected="True" />
+            <SelectField field="Dificultad" selected="True" />
+            <SelectField field="Fluidez" selected="True" />
+            <SelectField field="Brazadas totales" selected="True" />
+            <SelectField field="Swolf medio" selected="True" />
+            <SelectField field="Velocidad media de palada" selected="True" />
+            <SelectField field="Repeticiones totales" selected="True" />
+            <SelectField field="Tiempo de inmersión" selected="True" />
+            <SelectField field="Temperatura mínima" selected="True" />
+            <SelectField field="Intervalo en superficie" selected="True" />
+            <SelectField field="Descompresión" selected="True" />
+            <SelectField field="Mejor tiempo de vuelta" selected="True" />
+            <SelectField field="Número de vueltas" selected="True" />
+            <SelectField field="Temperatura máxima" selected="True" />
+            <SelectField field="Ritmo medio de respiración" selected="True" />
+            <SelectField field="Ritmo mínimo de respiración" selected="True" />
+            <SelectField field="Ritmo máximo de respiración" selected="True" />
+            <SelectField field="Tiempo en movimiento" selected="True" />
+            <SelectField field="Tiempo transcurrido" selected="True" />
+            <SelectField field="Altura mínima" selected="True" />
+            <SelectField field="Altura máxima" selected="True" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="True" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="True" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="True" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Flujo Garmin</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="d7f34d25-10f2-4463-85db-b01c1639c6fd" />
+      <Telemetry>
+        <PreviousWorkflowId value="3674fc13-3007-466b-9fe7-b8806904ed2f" />
+        <OriginWorkflowId value="3674fc13-3007-466b-9fe7-b8806904ed2f" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
