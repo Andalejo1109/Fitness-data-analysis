@@ -35,7 +35,7 @@ This project aims to aggregate and visualize fitness data from various sources (
     * Using Python (`Importing Garmin activities with Python.ipynb`) to import and process Garmin activities.
     * Utilizing Alteryx (`Flujo Garmin.yxmd`) for data cleaning, transformation, and integration.
     * Merging and consolidating data from multiple sources into `Fitness track.xlsx`.
-3.  **Data Analysis:** Analyzing fitness data to identify trends, patterns, and key metrics.
+3.  **Data Analysis:** Analyzing fitness data to identify trends, patterns, and key metrics. This project analyzes fitness data to gain insights into activity patterns and user behavior. The analysis includes descriptive statistics, data visualization, and K-Means clustering. Descriptive analysis provides an overview of the dataset, including distributions of key variables such as 'Activity Type' and 'Distance'. Visualizations, such as histograms, bar charts, and correlation heatmaps, illustrate relationships between variables and distributions of data[cite: 1, 2, 3]. K-Means clustering is used to identify groups of activities based on features like 'Activity Type', 'Distance', and 'userID'. The clustering results are further analyzed by examining the distribution of users and activity types within each cluster, providing insights into the characteristics of the identified groups.
 4.  **Dashboard Development:** Creating interactive dashboards in Power BI to visualize fitness achievements, average sports practices, geolocation data, and other relevant metrics. (Dashboard in progress)
 5.  **Visualization:** Creating visualizations to represent the analysis results.
 
