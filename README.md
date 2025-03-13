@@ -11,13 +11,13 @@ This project aims to aggregate and visualize fitness data from various sources (
 * **Visualization:** Creating interactive dashboards in Power BI to showcase fitness achievements, trends, and geolocation data.
 * **Community Building:** Providing a platform for friends and coworkers to share and compare their fitness activities.
 
-![Page 1 activities overview](/Page 1 activities overview.PNG)
+![Page 1 activities overview](images/Page 1 activities overview.PNG)
 
-![Page 2 cycling analysis](/Page 2 cycling analysis.PNG)
+![Page 2 cycling analysis](images/Page 2 cycling analysis.PNG)
 
-![Page 3 Performance insights](/Page 3 performance insights.PNG)
+![Page 3 Performance insights](images/Page 3 Performance insights.PNG)
 
-![Page 4 additional metrics](/Page 4 additional metrics.PNG)
+![Page 4 additional metrics](images/Page 4 additional metrics.PNG)
 
 
 ## Contents
