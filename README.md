@@ -13,9 +13,12 @@ This project aims to aggregate and visualize fitness data from various sources (
 
 ![Page 1 activities overview](Fitness-data-analysis/Page-1-activities-overview.PNG)
 
+
 ![Page 2 cycling analysis](Fitness-data-analysis/Page-2-cycling-analysis.PNG)
 
+
 ![Page 3 Performance insights](Fitness-data-analysis/Page-3-Performance-insights.PNG)
+
 
 ![Page 4 additional metrics](Fitness-data-analysis/Page-4-additional-metrics.PNG)
 
